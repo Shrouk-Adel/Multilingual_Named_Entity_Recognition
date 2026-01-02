@@ -2,7 +2,7 @@
 
 This project implements and evaluates a Named Entity Recognition (NER) model using the **XLM-RoBERTa (Cross-lingual Language Model)** architecture. The goal is to demonstrate the effectiveness of multilingual models for cross-lingual transfer learning, where a model trained on one or two high-resource languages can perform well on new, unseen languages.
 
-🚀 Live Demo
+## 🚀 Live Demo
 You can try out the trained model directly in your browser using the public demo on Hugging Face Spaces:
 
 **[Try the XLM-RoBERTa NER Demo](https://huggingface.co/spaces/shroukAdel/xlm-roberta-ner-demo)**
